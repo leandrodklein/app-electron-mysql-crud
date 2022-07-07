@@ -1,0 +1,17 @@
+{
+  "name": "app-electron-mysql-crud",
+  "version": "1.0.0",
+  "description": "- npm init -y",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "Electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^19.0.7",
+    "electron-reload": "^2.0.0-alpha.1",
+    "promise-mysql": "^5.2.0"
+  }
+}
